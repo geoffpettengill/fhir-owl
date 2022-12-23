@@ -10,7 +10,7 @@ You will need Maven installed in your computer. You can build the jar file using
 mvn package
 ```
 
-## Configuration
+## Configuration.  xx
 
 ### Properties
 
